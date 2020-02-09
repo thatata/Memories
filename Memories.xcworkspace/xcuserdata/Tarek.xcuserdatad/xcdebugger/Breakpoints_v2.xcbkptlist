@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6DCB055-24E3-4903-9FE9-A97E865AC6F4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95B88CAD-E475-4AE8-AEF8-1719C5C8E692"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memories/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "addMoment(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95B88CAD-E475-4AE8-AEF8-1719C5C8E692 - 6737b149bd53ed05"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memories.MainViewController.addMoment(Any) -&gt; ()"
+                  moduleName = "Memories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tarek/workspace/swift/Memories/Memories/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "95B88CAD-E475-4AE8-AEF8-1719C5C8E692 - 2ed9cde9e921c17a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Memories.MainViewController.addMoment(Any) -&gt; ()"
+                  moduleName = "Memories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tarek/workspace/swift/Memories/Memories/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
